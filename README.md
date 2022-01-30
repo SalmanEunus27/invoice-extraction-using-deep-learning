@@ -11,4 +11,7 @@ pytorch implementation of cutie -
 https://github.com/yahiathen/cutie-for-invoices
 
 Tensorflow implementation of cutie - 
+
 https://github.com/vsymbol/CUTIE
+
+https://pythonrepo.com/repo/vsymbol-CUTIE-python-computer-vision
