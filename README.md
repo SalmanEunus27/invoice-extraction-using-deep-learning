@@ -18,4 +18,19 @@ https://pythonrepo.com/repo/vsymbol-CUTIE-python-computer-vision
 
 https://vigneshgig.medium.com/how-to-extract-the-structure-of-invoice-data-using-tensorflow-api-faster-crnn-object-detection-8aa15c12bb46
 
+https://medium.com/@baselbb/build-a-neural-network-in-5-minutes-to-accelerate-late-invoice-and-debt-collection-using-keras-and-4eaa85791b9d
+
+https://datascience.stackexchange.com/questions/66577/how-can-we-extract-fields-from-images
+
+https://ai-summary.com/summary-information-extraction-with-nlp-and-deep-learning/
+
+https://ai.googleblog.com/2020/06/extracting-structured-data-from.html
+
+https://www.youtube.com/watch?v=18Pxvs50G-0
+
+https://www.diva-portal.org/smash/get/diva2:1463587/FULLTEXT01.pdf
+
+https://core.ac.uk/download/pdf/322611666.pdf
+
+
 
