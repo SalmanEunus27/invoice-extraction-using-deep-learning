@@ -16,6 +16,6 @@ https://github.com/vsymbol/CUTIE
 
 https://pythonrepo.com/repo/vsymbol-CUTIE-python-computer-vision
 
-https://github.com/interviewBubble/Tabulo
+
 
 
