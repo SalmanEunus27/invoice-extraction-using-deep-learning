@@ -32,5 +32,7 @@ https://www.diva-portal.org/smash/get/diva2:1463587/FULLTEXT01.pdf
 
 https://core.ac.uk/download/pdf/322611666.pdf
 
+https://dida.do/blog/extracting-information-from-documents
+
 
 
