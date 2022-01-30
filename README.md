@@ -22,8 +22,6 @@ https://medium.com/@baselbb/build-a-neural-network-in-5-minutes-to-accelerate-la
 
 https://datascience.stackexchange.com/questions/66577/how-can-we-extract-fields-from-images
 
-https://ai-summary.com/summary-information-extraction-with-nlp-and-deep-learning/
-
 https://ai.googleblog.com/2020/06/extracting-structured-data-from.html
 
 https://www.youtube.com/watch?v=18Pxvs50G-0
