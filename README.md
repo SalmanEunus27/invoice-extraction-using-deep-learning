@@ -16,6 +16,6 @@ https://github.com/vsymbol/CUTIE
 
 https://pythonrepo.com/repo/vsymbol-CUTIE-python-computer-vision
 
-
+https://vigneshgig.medium.com/how-to-extract-the-structure-of-invoice-data-using-tensorflow-api-faster-crnn-object-detection-8aa15c12bb46
 
 
