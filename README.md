@@ -38,4 +38,6 @@ https://datascience.stackexchange.com/questions/62225/how-to-extract-information
 
 https://ai.stackexchange.com/questions/16076/how-to-extract-information-from-the-image
 
+https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
+
 
