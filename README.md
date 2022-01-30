@@ -34,5 +34,8 @@ https://core.ac.uk/download/pdf/322611666.pdf
 
 https://dida.do/blog/extracting-information-from-documents
 
+https://datascience.stackexchange.com/questions/62225/how-to-extract-information-from-the-imagepng
+
+https://ai.stackexchange.com/questions/16076/how-to-extract-information-from-the-image
 
 
