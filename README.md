@@ -1,4 +1,4 @@
-# invoice-extraction-using-deep-learning - project Yes Ecosystems
+# invoice-data-extraction-json-using-deep-learning - project Yes Ecosystems
 
 
 Important links - 
