@@ -38,4 +38,6 @@ https://ai.stackexchange.com/questions/16076/how-to-extract-information-from-the
 
 https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html
 
+https://medium.com/analytics-vidhya/invoice-information-extraction-using-ocr-and-deep-learning-b79464f54d69
+
 
